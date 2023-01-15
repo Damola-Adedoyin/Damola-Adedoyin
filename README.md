@@ -6,7 +6,7 @@
    3. provides the team or stakeholders with practicable insights.
    
 With that said;
-> *“I like to think of data as the new soil, Get in and get your hands dirty”* — David McCanless.
+> *“I like to think of data as the new soil; get in and get your hands dirty”* — David McCanless.
 
 
 <!---
